@@ -10,7 +10,7 @@ también podrá detectar las ips locales de los clientes conectados
 # una sola maquina 
 ![alt text](https://github.com/CarlosDev88/socket-en-java/blob/main/capturas_pantalla/una_maquina.gif)
 
-#dos maquinas
+# dos maquinas
 ![alt text](https://github.com/CarlosDev88/socket-en-java/blob/main/capturas_pantalla/multiple_maquinas.gif)
  
 
